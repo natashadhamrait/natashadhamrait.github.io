@@ -1139,7 +1139,7 @@ input[type="radio"] {
       width: 2.0625em; }
   input[type="checkbox"]:checked + label:before,
   input[type="radio"]:checked + label:before {
-    background: #3d4449;
+    background: #eff1f2;
     border-color: #3d4449;
     color: #ffffff;
     content: '\f00c'; }
